@@ -227,37 +227,37 @@ The following evidence was captured and saved during this week's modules (screen
 - W2-PM5: Zenmap Intense scan output, screenshot of the Topology tab, host/IP/MAC list, and an ip a screenshot from the Kali VM with the last three MAC octets hidden
 
 ### W2-PM1 screenshots
-![w2 pm1 whois whatweb nslookup](images/w2-pm1-whois-whatweb-nslookup.png)
+![w2 pm1 whois whatweb nslookup](w2-pm1-whois-whatweb-nslookup.png)
 
-![w2 pm1 curl wafw00f](images/w2-pm1-curl-wafw00f.png)
+![w2 pm1 curl wafw00f](w2-pm1-curl-wafw00f.png)
 
-![w2 pm1 dnsrecon](images/w2-pm1-dnsrecon.jpeg)
+![w2 pm1 dnsrecon](w2-pm1-dnsrecon.jpeg)
 
 ### W2-PM2 screenshots
-![w2 pm2 ghdb dork list](images/w2-pm2-ghdb-dork-list.jpeg)
+![w2 pm2 ghdb dork list](w2-pm2-ghdb-dork-list.jpeg)
 
-![w2 pm2 directory listings 1](images/w2-pm2-directory-listings-1.png)
+![w2 pm2 directory listings 1](w2-pm2-directory-listings-1.png)
 
-![w2 pm2 directory listings 2](images/w2-pm2-directory-listings-2.png)
+![w2 pm2 directory listings 2](w2-pm2-directory-listings-2.png)
 
-![w2 pm2 directory listings 3](images/w2-pm2-directory-listings-3.jpeg)
+![w2 pm2 directory listings 3](w2-pm2-directory-listings-3.jpeg)
 
-![w2 pm2 directory listings 4](images/w2-pm2-directory-listings-4.png)
+![w2 pm2 directory listings 4](w2-pm2-directory-listings-4.png)
 
-![w2 pm2 directory listings 5](images/w2-pm2-directory-listings-5.png)
+![w2 pm2 directory listings 5](w2-pm2-directory-listings-5.png)
 
 ### W2-PM3 screenshots
-![w2 pm3 maltego graph](images/w2-pm3-maltego-graph.jpeg)
+![w2 pm3 maltego graph](w2-pm3-maltego-graph.jpeg)
 
 ### W2-PM4 screenshots
-![w2 pm4 theharvester baidu](images/w2-pm4-theharvester-baidu.jpeg)
+![w2 pm4 theharvester baidu](w2-pm4-theharvester-baidu.jpeg)
 
-![w2 pm4 theharvester all sources](images/w2-pm4-theharvester-all-sources.jpeg)
+![w2 pm4 theharvester all sources](w2-pm4-theharvester-all-sources.jpeg)
 
 ### W2-PM5 screenshots
-![w2 pm5 zenmap topology](images/w2-pm5-zenmap-topology.jpeg)
+![w2 pm5 zenmap topology](w2-pm5-zenmap-topology.jpeg)
 
-![w2 pm5 ip a redacted](images/w2-pm5-ip-a-redacted.jpeg)
+![w2 pm5 ip a redacted](w2-pm5-ip-a-redacted.jpeg)
 
 ---
 

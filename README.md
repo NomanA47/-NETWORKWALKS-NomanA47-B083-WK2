@@ -216,7 +216,7 @@ Overall, this week reinforced that reconnaissance is a quiet, largely passive ph
 
 The following evidence was captured and saved during this week's modules (screenshots and raw tool output saved to the Week 2 evidence folder on the Kali VM):
 
-- W2-PM1: terminal screenshots + text output for whois, whatweb, nslookup, curl -I, wafw00f, dnsrecon
+-W2-PM1: terminal screenshots for all six tools, plus text output for whois, whatweb, nslookup, curl -I and wafw00f
 
 - W2-PM2: GHDB dork-list screenshots + browser screenshots of the directory listings (camera feed screenshots left out of this public copy for privacy)
 
